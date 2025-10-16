@@ -1,3 +1,10 @@
+---
+layout: page
+title: Terms of Use
+permalink: /terms
+include_in_header: false
+---
+
 # Milkman Website Mobile Application Terms of Use
 
 These Terms of Use ("Terms of Use") apply to an individual's access to, and use of, the Services, which are operated by Milkman, Inc. ("Milkman", "Company," "we", "us" or "our") in the United States. These Terms of Use do not alter in any way the terms or conditions of any other agreement you may have with Milkman for other products and services.

@@ -1,3 +1,10 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacypolicy
+include_in_header: false
+---
+
 # MEALVANA PRIVACY POLICY
 **Last Updated:** May 7, 2025
 
