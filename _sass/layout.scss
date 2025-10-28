@@ -371,7 +371,8 @@ nav > ul li a:active {
 } 
 
 .appStore {
-	height: 75px;
+	height: 100px; /* Increased size for better visibility */
+	border-radius: 12px; /* Rounded corners for App Store badge */
 }
 
 
