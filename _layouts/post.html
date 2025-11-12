@@ -1,0 +1,60 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+        {% include header.html %}
+            <article class="page markdown-body">
+                <div class="post-header">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                    <div class="post-meta">
+                        <span class="post-date">{{ page.date | date: "%B %d, %Y" }}</span>
+                        {% if page.author %}
+                        <span class="post-author">by {{ page.author }}</span>
+                        {% endif %}
+                        {% if page.read_time %}
+                        <span class="read-time">{{ page.read_time }} min read</span>
+                        {% endif %}
+                    </div>
+                </div>
+
+                <div class="post-content">
+                    {{ content }}
+                </div>
+
+                {% if page.tags %}
+                <div class="post-tags">
+                    <strong>Tags:</strong>
+                    {% for tag in page.tags %}
+                        <span class="tag">#{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+
+                <div class="post-navigation">
+                    {% if page.previous.url %}
+                    <a class="prev-post" href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
+                    {% endif %}
+
+                    {% if page.next.url %}
+                    <a class="next-post" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>
+                    {% endif %}
+                </div>
+
+                <div class="back-to-blog">
+                    <a href="/blog/">&larr; Back to Blog</a>
+                </div>
+            </article>
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+</body>
+
+</html>

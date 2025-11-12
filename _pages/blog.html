@@ -1,0 +1,47 @@
+---
+layout: page
+title: Blog
+include_in_header: true
+permalink: /blog/
+---
+
+<div class="blog-header">
+    <h1>{{ page.title }}</h1>
+    <p class="blog-description">Science-based nutrition insights for endurance athletes</p>
+</div>
+
+<div class="blog-posts">
+    {% for post in site.posts %}
+    <article class="blog-post-preview">
+        <h2 class="post-preview-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+
+        <div class="post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%B %d, %Y" }}
+            </time>
+            {% if post.author %}
+            <span class="author">by {{ post.author }}</span>
+            {% endif %}
+            {% if post.read_time %}
+            <span class="read-time">{{ post.read_time }} min read</span>
+            {% endif %}
+        </div>
+
+        <div class="post-excerpt">
+            {{ post.excerpt }}
+        </div>
+
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
+
+        {% if post.categories %}
+        <div class="post-categories">
+            {% for category in post.categories %}
+            <span class="category">{{ category }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>

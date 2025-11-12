@@ -147,5 +147,17 @@ collections:
     output: true
     permalink: /:path/
 
+# Blog Configuration
+permalink: /blog/:year/:month/:day/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mealvana Team"
+
 # Markdown rendering
 markdown: kramdown
