@@ -161,12 +161,16 @@
 
 .post-tags {
   margin-top: 40px;
+  margin-bottom: 30px;
   padding-top: 30px;
   border-top: 1px solid rgba($feature-text-color, 0.1);
+  display: block;
+  clear: both;
 
   strong {
     color: $feature-title-color;
     margin-right: 10px;
+    display: inline-block;
   }
 
   .tag {
@@ -211,12 +215,16 @@
 
 .back-to-blog {
   margin-top: 30px;
+  margin-bottom: 30px;
+  display: block;
+  clear: both;
 
   a {
     color: $accent-color;
     text-decoration: none;
     font-weight: 600;
     font-size: 1.6rem;
+    display: inline-block;
 
     &:hover {
       text-decoration: underline;
@@ -294,8 +302,10 @@
     font-weight: 600;
     text-decoration: none;
     font-size: 1.6rem;
-    display: inline-block;
-    margin-bottom: 15px;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    clear: both;
 
     &:hover {
       text-decoration: underline;
@@ -304,6 +314,8 @@
 
   .post-categories {
     margin-top: 15px;
+    display: block;
+    clear: both;
 
     .category {
       display: inline-block;
