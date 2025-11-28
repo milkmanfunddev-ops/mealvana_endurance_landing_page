@@ -1,3 +1,66 @@
+// Contact Form Styles
+.contact-form {
+  max-width: 600px;
+  margin: 30px 0;
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: $feature-title-color;
+    font-size: 1.6rem;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
+    width: 100%;
+    padding: 12px 15px;
+    font-size: 1.6rem;
+    border: 2px solid rgba($feature-text-color, 0.2);
+    border-radius: 8px;
+    background-color: rgba($feature-icons-background-color, 0.1);
+    color: $feature-title-color;
+    transition: border-color 0.2s ease;
+
+    &:focus {
+      outline: none;
+      border-color: $accent-color;
+    }
+  }
+
+  select {
+    cursor: pointer;
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+
+  .submit-btn {
+    display: inline-block;
+    padding: 14px 30px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: white;
+    background-color: $accent-color;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: darken($accent-color, 10%);
+    }
+  }
+}
+
 // Blog Post Styles - matches existing Mealvana theme
 
 .post-header {
