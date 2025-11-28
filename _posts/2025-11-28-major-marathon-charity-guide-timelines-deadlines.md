@@ -237,6 +237,6 @@ As Robin's Tokyo experience shows, your **personal connection to the cause** and
 
 ---
 
-**Want fundraising strategies that actually work?** Check out our companion guide: [The Charity Runner's Playbook](/blog/charity-runners-playbook-guide-fundraising/) featuring insights from Robin White, a Six-Star Marathon Finisher who has raised over $30,000 for charity.
+**Want fundraising strategies that actually work?** Check out our companion guide: [The Charity Runner's Playbook](/blog/2025/11/28/charity-runners-playbook-guide-fundraising/) featuring insights from Robin White, a Six-Star Marathon Finisher who has raised over $30,000 for charity.
 
 **Happy Running & Happy Fundraising!**

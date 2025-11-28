@@ -92,7 +92,7 @@ Why early contact helps:
 
 Think of yourself less as a random applicant and more as someone starting a relationship with the charity.
 
-*For detailed timelines, fundraising minimums by race, and application deadlines, see our comprehensive [Major Marathon Charity Guide](/blog/major-marathon-charity-guide-timelines-deadlines/).*
+*For detailed timelines, fundraising minimums by race, and application deadlines, see our comprehensive [Major Marathon Charity Guide](/blog/2025/11/28/major-marathon-charity-guide-timelines-deadlines/).*
 
 ---
 
@@ -221,7 +221,7 @@ Remember: Charity running isn't just about the miles or the money – it's about
 
 ## Resources
 
-Ready to dive deeper? Check out our [Major Marathon Charity Guide](/blog/major-marathon-charity-guide-timelines-deadlines/) featuring application deadlines, lottery versus charity entry strategies, fundraising minimums by race, and a complete timeline cheat sheet for all six World Marathon Majors.
+Ready to dive deeper? Check out our [Major Marathon Charity Guide](/blog/2025/11/28/major-marathon-charity-guide-timelines-deadlines/) featuring application deadlines, lottery versus charity entry strategies, fundraising minimums by race, and a complete timeline cheat sheet for all six World Marathon Majors.
 
 ---
 
