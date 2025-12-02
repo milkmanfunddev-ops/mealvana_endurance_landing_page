@@ -1,8 +1,8 @@
 <head>
 	<meta charset="utf-8">
 
-	<!-- Google Analytics -->
-	{% if site.google_analytics and jekyll.environment == 'production' %}
+	<!-- Mixpanel Analytics -->
+	{% if site.mixpanel_token and jekyll.environment == 'production' %}
 		{% include analytics.html %}
 	{% endif %}
 	<meta http-equiv="x-ua-compatible" content="ie=edge">

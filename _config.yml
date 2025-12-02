@@ -1,8 +1,8 @@
 #page title
 page_title                                : Mealvana Endurance
 
-# Google Analytics
-google_analytics                          : G-9HG8YJZ0CK                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+# Mixpanel Analytics
+mixpanel_token                            : 2d08d7602f830f32d70c109ba13e744f
 
 # App Info
 ios_app_id                                : 6544782852                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
