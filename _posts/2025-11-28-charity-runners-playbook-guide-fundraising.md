@@ -18,6 +18,8 @@ image: /assets/images/blog_image_1.png
 
 <img src="/assets/images/blog_image_1.png" alt="Charity Runner's Playbook" style="width: 100%; border-radius: 8px; margin: 20px 0;">
 
+*This newsletter was created from insights shared on a podcast featuring Robin White, Six-Star Marathon Finisher & $30,000+ Fundraiser. For the full conversation and additional details, [listen to the complete episode](https://youtu.be/J-n_qWccsFQ?utm_source=website&utm_medium=blog&utm_campaign=blog).*
+
 ## Meet Your Guide
 
 **Robin White** isn't just any runner – she's a powerhouse in the charity running community. Having completed all six World Marathon Majors and raised over $30,000 for the Bell Center across 13 campaigns, she brings deep experience to charity fundraising. As an active volunteer with the Bell Center Service Guild, she understands both sides of the charitable giving equation.
