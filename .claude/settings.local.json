@@ -6,7 +6,8 @@
       "Bash(bundle exec jekyll build:*)",
       "Bash(curl:*)",
       "Bash(bundle exec jekyll:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []
