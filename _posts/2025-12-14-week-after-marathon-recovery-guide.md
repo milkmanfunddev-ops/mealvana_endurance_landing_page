@@ -121,7 +121,6 @@ Walk for 2–3 days, eat intentionally, sleep deeply, and ease back slowly. You'
 <div style="background: linear-gradient(135deg, #2D5F8D 0%, #4A90C8 50%, #5BA3D8 100%); padding: 35px; border-radius: 12px; margin: 40px 0; text-align: center; color: white; box-shadow: 0 4px 20px rgba(45, 95, 141, 0.3);">
   <h3 style="color: white; margin-top: 0; font-size: 2.4rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">Fuel Your Recovery</h3>
   <p style="font-size: 1.8rem; line-height: 1.6; margin: 20px 0; text-shadow: 0 1px 2px rgba(0,0,0,0.15);">Let <strong>Mealvana Endurance</strong> take the guesswork out of your post-race nutrition. We create personalized recovery meal plans so you can focus on rest while your body repairs.</p>
-  <p style="font-size: 1.9rem; margin: 20px 0; text-shadow: 0 1px 2px rgba(0,0,0,0.15);"><strong>Limited Time:</strong> Get 1-year free access ($100 value) to the Mealvana Endurance nutrition app!</p>
   <a href="/" style="display: inline-block; background: white; color: #2D5F8D; padding: 15px 40px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.8rem; margin-top: 10px; transition: all 0.2s; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)'">Get Your Free Plan →</a>
 </div>
 
