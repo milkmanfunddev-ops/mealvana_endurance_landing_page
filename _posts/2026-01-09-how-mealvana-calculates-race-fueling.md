@@ -31,7 +31,7 @@ Mealvana combines decades of peer-reviewed sports nutrition research with your p
 
 ### Why Carbs Matter
 
-During endurance exercise, your muscles burn a mix of carbohydrates and fat. The harder you go, the more you rely on carbs. A 2.5-hour workout at moderate-to-hard intensity can burn through 300-500 grams of stored carbohydrate (glycogen) — and your body can only store about 400-500 grams total [(Jeukendrup, 2004)](https://pubmed.ncbi.nlm.nih.gov/15212750/).
+During endurance exercise, your muscles burn a mix of carbohydrates and fat. The harder you go, the more you rely on carbs. A 2.5-hour workout at moderate-to-hard intensity can burn through 300-500 grams of stored carbohydrate (glycogen) — and your body can only store about 400-500 grams total ([Jeukendrup, 2004](https://pubmed.ncbi.nlm.nih.gov/15212750/))
 
 **The math is simple:** If you don't replace carbs during long or hard efforts, you'll bonk.
 
@@ -39,9 +39,9 @@ During endurance exercise, your muscles burn a mix of carbohydrates and fat. The
 
 Here's something fascinating that researchers discovered: **your gut can only absorb about 60 grams of a single type of carbohydrate per hour**, no matter how much you consume.
 
-This finding has been replicated across dozens of studies. As Dr. Asker Jeukendrup summarized in his landmark 2004 review: *"A single CHO ingested during exercise will be oxidized at rates up to about 1 g/min, even when large amounts of CHO are ingested"* [(Jeukendrup, 2004, *Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/15212750/).
+This finding has been replicated across dozens of studies. As Dr. Asker Jeukendrup summarized in his landmark 2004 review: *"A single CHO ingested during exercise will be oxidized at rates up to about 1 g/min, even when large amounts of CHO are ingested"* ([Jeukendrup, 2004, *Nutrition*](https://pubmed.ncbi.nlm.nih.gov/15212750/))
 
-Why? It comes down to intestinal transporters — specialized proteins that shuttle sugar from your gut into your bloodstream. The main transporter for glucose (called SGLT1) maxes out at roughly 1 gram per minute [(Jeukendrup & Jentjens, 2000, *Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/10870863/).
+Why? It comes down to intestinal transporters — specialized proteins that shuttle sugar from your gut into your bloodstream. The main transporter for glucose (called SGLT1) maxes out at roughly 1 gram per minute ([Jeukendrup & Jentjens, 2000, *Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/10870863/))
 
 **But here's the game-changer:** Fructose uses a *different* transporter (GLUT5). By combining glucose and fructose, you can essentially open a second absorption lane.
 
@@ -51,32 +51,32 @@ Why? It comes down to intestinal transporters — specialized proteins that shut
 | Glucose + Fructose | 90-105 g/hr | [Jentjens & Jeukendrup, 2005](https://pubmed.ncbi.nlm.nih.gov/15877900/) |
 | Trained gut + optimal ratio | Up to 120 g/hr | [Hearris et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35514294/) |
 
-This is why most sports nutrition products now use glucose:fructose blends (often listed as maltodextrin + fructose). The research from Jentjens & Jeukendrup (2005) showed that athletes can oxidize up to **105 g/hr** with the right carb mix — representing a 75% increase over single-source carbohydrate [(Jentjens & Jeukendrup, 2005, *British Journal of Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/15877900/).
+This is why most sports nutrition products now use glucose:fructose blends (often listed as maltodextrin + fructose). The research from Jentjens & Jeukendrup (2005) showed that athletes can oxidize up to **105 g/hr** with the right carb mix — representing a 75% increase over single-source carbohydrate ([Jentjens & Jeukendrup, 2005, *British Journal of Nutrition*](https://pubmed.ncbi.nlm.nih.gov/15877900/))
 
-More recent work has pushed this further. Hearris and colleagues (2022) demonstrated that **120 g/hr is practically tolerable** for athletes with trained guts using an optimized 1:0.8 glucose:fructose ratio [(Hearris et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35514294/).
+More recent work has pushed this further. Hearris and colleagues (2022) demonstrated that **120 g/hr is practically tolerable** for athletes with trained guts using an optimized 1:0.8 glucose:fructose ratio ([Hearris et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35514294/))
 
 ### The Optimal Carbohydrate Ratio
 
 Not all glucose:fructose ratios are equal. The research has evolved:
 
-- **2:1 ratio (glucose:fructose):** Optimal for intakes up to 90 g/hr [(Jeukendrup, 2008, *European Journal of Sport Science*)](https://www.tandfonline.com/doi/full/10.1080/17461390801918971)
-- **1:0.8 ratio:** Better for intakes of 90-120 g/hr, with improved GI comfort [(Rowlands et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25202917/)
+- **2:1 ratio (glucose:fructose):** Optimal for intakes up to 90 g/hr ([Jeukendrup, 2008, *European Journal of Sport Science*](https://www.tandfonline.com/doi/full/10.1080/17461390801918971))
+- **1:0.8 ratio:** Better for intakes of 90-120 g/hr, with improved GI comfort ([Rowlands et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25202917/))
 
 This ratio matters because fructose absorption can become the bottleneck at very high intake rates. Elite marathon runner Eliud Kipchoge reportedly uses a 1:0.8 ratio for his record attempts.
 
 ### How Mealvana Calculates Your Carb Targets
 
-We use duration and intensity as the primary drivers, following the evidence-based guidelines from the American College of Sports Medicine and International Olympic Committee consensus statements [(Thomas et al., 2016, *Journal of the Academy of Nutrition and Dietetics*)](https://pubmed.ncbi.nlm.nih.gov/26920240/):
+We use duration and intensity as the primary drivers, following the evidence-based guidelines from the American College of Sports Medicine and International Olympic Committee consensus statements ([Thomas et al., 2016, *Journal of the Academy of Nutrition and Dietetics*](https://pubmed.ncbi.nlm.nih.gov/26920240/)):
 
 **Base Recommendations by Duration:**
 
 | Workout Duration | Carb Target | Scientific Rationale |
 | --- | --- | --- |
-| Under 60 min | 0-30 g total | Glycogen stores sufficient; mouth rinse approach may help [(Carter et al., 2004)](https://pubmed.ncbi.nlm.nih.gov/15570150/) |
-| 60-90 min | 30-60 g/hr | Maintains blood glucose [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/) |
+| Under 60 min | 0-30 g total | Glycogen stores sufficient; mouth rinse approach may help ([Carter et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15570150/)) |
+| 60-90 min | 30-60 g/hr | Maintains blood glucose ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/)) |
 | 90 min - 2.5 hr | 45-60 g/hr | Delays glycogen depletion |
-| 2.5 - 4 hr | 60-90 g/hr | Requires multiple transportable carbs [(Jeukendrup, 2014)](https://pubmed.ncbi.nlm.nih.gov/24791914/) |
-| 4+ hr | 80-100+ g/hr | Maximum sustainable; must include real food [(Pfeiffer et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/21775906/) |
+| 2.5 - 4 hr | 60-90 g/hr | Requires multiple transportable carbs ([Jeukendrup, 2014](https://pubmed.ncbi.nlm.nih.gov/24791914/)) |
+| 4+ hr | 80-100+ g/hr | Maximum sustainable; must include real food ([Pfeiffer et al., 2012](https://pubmed.ncbi.nlm.nih.gov/21775906/)) |
 
 *Sources: [Burke et al., 2011, Journal of Sports Sciences](https://pubmed.ncbi.nlm.nih.gov/21916794/); [Jeukendrup, 2014, Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/24791914/); [Thomas et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26920240/)*
 
@@ -84,7 +84,7 @@ We use duration and intensity as the primary drivers, following the evidence-bas
 
 In your Mealvana profile, you set your **maximum carb tolerance** — the most you can comfortably consume per hour without GI distress. We never recommend above this ceiling, even if the workout duration would otherwise call for it.
 
-Research confirms this individual variation is real: a large field study of Ironman competitors found carbohydrate intake ranged from **6 to 136 g/hr** across athletes, with higher intakes correlating to faster finish times [(Pfeiffer et al., 2012, *Medicine and Science in Sports and Exercise*)](https://pubmed.ncbi.nlm.nih.gov/21775906/).
+Research confirms this individual variation is real: a large field study of Ironman competitors found carbohydrate intake ranged from **6 to 136 g/hr** across athletes, with higher intakes correlating to faster finish times ([Pfeiffer et al., 2012, *Medicine and Science in Sports and Exercise*](https://pubmed.ncbi.nlm.nih.gov/21775906/))
 
 *Example:* If you've set your tolerance at 70 g/hr and you're doing a 4-hour ride, we'll recommend 70 g/hr (your max), not the 80-90 g/hr that duration might otherwise suggest.
 
@@ -98,36 +98,36 @@ What you eat *before* your workout matters as much as what you consume during it
 
 Your pre-workout nutrition serves three purposes:
 
-1. **Top off liver glycogen** — Depleted overnight, liver glycogen fuels your brain and maintains blood glucose [(Casey et al., 2000)](https://pubmed.ncbi.nlm.nih.gov/10919968/)
-2. **Ensure adequate muscle glycogen** — Your primary fuel for moderate-to-high intensity work [(Hawley & Burke, 2010)](https://pubmed.ncbi.nlm.nih.gov/20616742/)
-3. **Optimize hydration status** — Start euhydrated, not playing catch-up [(Sawka et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17277604/)
+1. **Top off liver glycogen** — Depleted overnight, liver glycogen fuels your brain and maintains blood glucose ([Casey et al., 2000](https://pubmed.ncbi.nlm.nih.gov/10919968/))
+2. **Ensure adequate muscle glycogen** — Your primary fuel for moderate-to-high intensity work ([Hawley & Burke, 2010](https://pubmed.ncbi.nlm.nih.gov/20616742/))
+3. **Optimize hydration status** — Start euhydrated, not playing catch-up ([Sawka et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17277604/))
 
 The challenge: eat enough to fuel performance, but not so much (or so close to exercise) that GI distress derails your workout.
 
 ### Timing Windows: How Time Before Exercise Changes Everything
 
-Research has established clear timing-based guidelines. The closer you get to your workout, the simpler and smaller your nutrition should be [(Kerksick et al., 2017, *Journal of the International Society of Sports Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/28919842/).
+Research has established clear timing-based guidelines. The closer you get to your workout, the simpler and smaller your nutrition should be ([Kerksick et al., 2017, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/28919842/))
 
 **3-4 Hours Before: The Full Meal Window**
 
 | Nutrient | Target | Rationale |
 | --- | --- | --- |
-| Carbohydrate | 1-4 g/kg body weight | Tops off glycogen stores [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/) |
-| Protein | 0.15-0.25 g/kg | Supports muscle protein balance [(Kerksick et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28919842/) |
+| Carbohydrate | 1-4 g/kg body weight | Tops off glycogen stores ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/)) |
+| Protein | 0.15-0.25 g/kg | Supports muscle protein balance ([Kerksick et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28919842/)) |
 | Fat | 0.3-0.5 g/kg | Acceptable; adequate digestion time |
 | Fiber | Moderate | Can include vegetables, whole grains |
 
 *Example for 70kg athlete:* 70-280g carbs, 10-18g protein, 20-35g fat
 
-This is your window for a "real meal" — oatmeal with banana and eggs, a bagel with peanut butter, rice with chicken and vegetables. The 3-4 hour buffer allows complete gastric emptying before exercise begins [(Rehrer et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1386594/).
+This is your window for a "real meal" — oatmeal with banana and eggs, a bagel with peanut butter, rice with chicken and vegetables. The 3-4 hour buffer allows complete gastric emptying before exercise begins ([Rehrer et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1386594/))
 
 **1-2 Hours Before: The Snack Window**
 
 | Nutrient | Target | Rationale |
 | --- | --- | --- |
-| Carbohydrate | 1-2 g/kg body weight | Maintain blood glucose [(Ormsbee et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/25028999/) |
+| Carbohydrate | 1-2 g/kg body weight | Maintain blood glucose ([Ormsbee et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25028999/)) |
 | Protein | 0-10g | Optional; keep minimal |
-| Fat | <10g | Slows gastric emptying; minimize [(Rehrer et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1386594/) |
+| Fat | <10g | Slows gastric emptying; minimize ([Rehrer et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1386594/)) |
 | Fiber | Low | Avoid GI bulk |
 
 *Example for 70kg athlete:* 70-140g carbs, minimal fat/protein
@@ -138,18 +138,18 @@ This is your window for easily digestible carbs — white bread with jam, a bana
 
 | Nutrient | Target | Rationale |
 | --- | --- | --- |
-| Carbohydrate | 0.5-1 g/kg | Final glucose availability boost [(Jeukendrup & Killer, 2010)](https://pubmed.ncbi.nlm.nih.gov/21116024/) |
+| Carbohydrate | 0.5-1 g/kg | Final glucose availability boost ([Jeukendrup & Killer, 2010](https://pubmed.ncbi.nlm.nih.gov/21116024/)) |
 | Protein | 0g | No time to digest |
 | Fat | 0g | No time to digest |
 | Fiber | 0g | Risk of GI distress |
 
 *Example for 70kg athlete:* 35-70g carbs from simple sources
 
-This window is for simple, fast-digesting carbs only — a gel, sports drink, white bread with honey, or a ripe banana. Research shows that consuming carbohydrate in this window can enhance performance, particularly for sessions starting with low glycogen or lasting >60 minutes [(Jeukendrup & Killer, 2010, *Annals of Nutrition and Metabolism*)](https://pubmed.ncbi.nlm.nih.gov/21116024/).
+This window is for simple, fast-digesting carbs only — a gel, sports drink, white bread with honey, or a ripe banana. Research shows that consuming carbohydrate in this window can enhance performance, particularly for sessions starting with low glycogen or lasting >60 minutes ([Jeukendrup & Killer, 2010, *Annals of Nutrition and Metabolism*](https://pubmed.ncbi.nlm.nih.gov/21116024/))
 
 **<30 Minutes Before: Proceed with Caution**
 
-Eating within 30 minutes of exercise is generally not recommended for most athletes. However, for early morning workouts where eating 2-3 hours prior isn't practical, a small amount of easily digestible carbohydrate (15-30g) is better than training completely fasted for high-intensity or long sessions [(Rothschild et al., 2020, *Nutrients*)](https://pubmed.ncbi.nlm.nih.gov/33092557/).
+Eating within 30 minutes of exercise is generally not recommended for most athletes. However, for early morning workouts where eating 2-3 hours prior isn't practical, a small amount of easily digestible carbohydrate (15-30g) is better than training completely fasted for high-intensity or long sessions ([Rothschild et al., 2020, *Nutrients*](https://pubmed.ncbi.nlm.nih.gov/33092557/))
 
 ### Sport-Specific Pre-Workout Guidelines
 
@@ -162,7 +162,7 @@ Running creates the most GI stress due to:
 - Increased intra-abdominal pressure
 - Greater blood flow diversion from the gut compared to cycling at similar intensity
 
-Research consistently shows runners experience more GI symptoms than cyclists [(Peters et al., 1999)](https://pubmed.ncbi.nlm.nih.gov/10364014/). A survey of 606 Dutch endurance athletes found that *"approximately 45% of runners reported GI problems during running, compared to 33% of cyclists"* [(de Oliveira & Burini, 2009, *British Journal of Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/19136507/).
+Research consistently shows runners experience more GI symptoms than cyclists ([Peters et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10364014/)) A survey of 606 Dutch endurance athletes found that *"approximately 45% of runners reported GI problems during running, compared to 33% of cyclists"* ([de Oliveira & Burini, 2009, *British Journal of Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/19136507/))
 
 **Mealvana's Running Pre-Workout Adjustments:**
 
@@ -181,7 +181,7 @@ Cyclists can generally tolerate more food, closer to exercise:
 - Aerodynamic posture doesn't compress stomach
 - Lower relative blood flow diversion at equivalent heart rate
 
-Studies show cyclists tolerate higher carbohydrate intake during exercise, and this tolerance extends to pre-exercise nutrition [(Pfeiffer et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/21775906/).
+Studies show cyclists tolerate higher carbohydrate intake during exercise, and this tolerance extends to pre-exercise nutrition ([Pfeiffer et al., 2012](https://pubmed.ncbi.nlm.nih.gov/21775906/))
 
 **Mealvana's Cycling Pre-Workout Adjustments:**
 
@@ -201,7 +201,7 @@ Swimming presents different challenges:
 - Breathing pattern interruptions
 - Cold water can slow digestion
 
-Research on swimming-specific pre-exercise nutrition is limited, but expert consensus suggests moderate caution. The triathlon-specific research from Jeukendrup et al. (2005) notes that *"gastric emptying may be impaired by the change in body position"* when transitioning between disciplines [(Jeukendrup et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15707379/).
+Research on swimming-specific pre-exercise nutrition is limited, but expert consensus suggests moderate caution. The triathlon-specific research from Jeukendrup et al. (2005) notes that *"gastric emptying may be impaired by the change in body position"* when transitioning between disciplines ([Jeukendrup et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15707379/))
 
 **Mealvana's Swimming Pre-Workout Adjustments:**
 
@@ -218,11 +218,11 @@ Research on swimming-specific pre-exercise nutrition is limited, but expert cons
 
 Exercise intensity directly affects gastrointestinal function. Higher intensity means:
 - Greater blood flow diversion to working muscles
-- Reduced splanchnic (gut) blood flow — up to 80% reduction at maximal exercise [(van Wijck et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22450853/)
+- Reduced splanchnic (gut) blood flow — up to 80% reduction at maximal exercise ([van Wijck et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22450853/))
 - Slower gastric emptying
 - Increased GI symptom risk
 
-A systematic review found that *"exercise intensity is considered one of the most important factors determining gastrointestinal disturbance during exercise"* [(de Oliveira et al., 2014, *Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/24458896/).
+A systematic review found that *"exercise intensity is considered one of the most important factors determining gastrointestinal disturbance during exercise"* ([de Oliveira et al., 2014, *Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/24458896/))
 
 **Mealvana's Intensity-Based Adjustments:**
 
@@ -240,11 +240,11 @@ Many athletes train at 5 or 6 AM. Waking at 2 AM to eat isn't realistic. What do
 
 **Option 1: Train Fasted (with caveats)**
 
-For easy-to-moderate sessions under 60-75 minutes, training fasted is acceptable and may even enhance fat adaptation [(Van Proeyen et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/20837645/). However, for high-intensity work or sessions over 90 minutes, performance suffers without pre-exercise carbohydrate [(Rothschild et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/33092557/).
+For easy-to-moderate sessions under 60-75 minutes, training fasted is acceptable and may even enhance fat adaptation ([Van Proeyen et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20837645/)) However, for high-intensity work or sessions over 90 minutes, performance suffers without pre-exercise carbohydrate ([Rothschild et al., 2020](https://pubmed.ncbi.nlm.nih.gov/33092557/))
 
 **Option 2: Strategic Small Feeding**
 
-Research supports consuming a small amount of easily digestible carbohydrate (25-50g) 15-30 minutes before exercise when a longer pre-exercise window isn't available [(Jeukendrup & Killer, 2010)](https://pubmed.ncbi.nlm.nih.gov/21116024/). Examples:
+Research supports consuming a small amount of easily digestible carbohydrate (25-50g) 15-30 minutes before exercise when a longer pre-exercise window isn't available ([Jeukendrup & Killer, 2010](https://pubmed.ncbi.nlm.nih.gov/21116024/)) Examples:
 - Half a banana
 - 200ml sports drink
 - 1 gel
@@ -252,7 +252,7 @@ Research supports consuming a small amount of easily digestible carbohydrate (25
 
 **Option 3: Evening Carb Loading**
 
-For planned early morning key sessions, consuming extra carbohydrate the evening before can partially compensate for the abbreviated morning window. This doesn't fully replace pre-exercise fueling but helps ensure adequate glycogen stores [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/).
+For planned early morning key sessions, consuming extra carbohydrate the evening before can partially compensate for the abbreviated morning window. This doesn't fully replace pre-exercise fueling but helps ensure adequate glycogen stores ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/))
 
 **Mealvana generates two protocols for early morning workouts:**
 1. A minimal "wake and go" option with simple carbs only
@@ -260,11 +260,11 @@ For planned early morning key sessions, consuming extra carbohydrate the evening
 
 ### Pre-Workout Hydration and Sodium: Start Ahead
 
-Hydration status at the start of exercise significantly impacts performance and thermoregulation. Starting even slightly dehydrated (2% body mass deficit) can impair endurance performance by 5-10% [(Cheuvront & Kenefick, 2014, *Comprehensive Physiology*)](https://pubmed.ncbi.nlm.nih.gov/24692140/).
+Hydration status at the start of exercise significantly impacts performance and thermoregulation. Starting even slightly dehydrated (2% body mass deficit) can impair endurance performance by 5-10% ([Cheuvront & Kenefick, 2014, *Comprehensive Physiology*](https://pubmed.ncbi.nlm.nih.gov/24692140/))
 
 The ACSM recommends:
 
-*"Prehydrating with beverages, if needed, should be initiated at least several hours before the exercise task to enable fluid absorption and allow urine output to return to normal levels"* [(Sawka et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17277604/).
+*"Prehydrating with beverages, if needed, should be initiated at least several hours before the exercise task to enable fluid absorption and allow urine output to return to normal levels"* ([Sawka et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17277604/))
 
 **Practical Pre-Workout Hydration Guidelines:**
 
@@ -278,7 +278,7 @@ The ACSM recommends:
 
 Plain water is poorly retained by the body — much of it ends up as urine before you even start exercising. Adding sodium dramatically improves fluid retention.
 
-Research by Sims et al. (2007) demonstrated that consuming a high-sodium beverage (164 mmol/L, or ~3,800 mg/L) before exercise in the heat expanded plasma volume and improved cycling time trial performance by 3% compared to a low-sodium placebo [(Sims et al., 2007, *Medicine and Science in Sports and Exercise*)](https://pubmed.ncbi.nlm.nih.gov/17277599/).
+Research by Sims et al. (2007) demonstrated that consuming a high-sodium beverage (164 mmol/L, or ~3,800 mg/L) before exercise in the heat expanded plasma volume and improved cycling time trial performance by 3% compared to a low-sodium placebo ([Sims et al., 2007, *Medicine and Science in Sports and Exercise*](https://pubmed.ncbi.nlm.nih.gov/17277599/))
 
 **The mechanism:** Sodium increases plasma osmolality, which:
 1. Triggers greater fluid retention (less urination)
@@ -415,11 +415,11 @@ When you run, three things work against your gut:
 2. **Reduced blood flow** — Running diverts more blood away from your digestive system than cycling at equivalent effort
 3. **Body position** — The upright running posture affects gastric emptying differently than cycling's forward lean
 
-These aren't just theoretical concerns. In a study of gastrointestinal symptoms across different sports, Peters et al. (1999) found that *"symptoms are more common in runners than in cyclists"* — with mechanical impact identified as a primary cause [(Peters et al., 1999, *American Journal of Gastroenterology*)](https://pubmed.ncbi.nlm.nih.gov/10364014/).
+These aren't just theoretical concerns. In a study of gastrointestinal symptoms across different sports, Peters et al. (1999) found that *"symptoms are more common in runners than in cyclists"* — with mechanical impact identified as a primary cause ([Peters et al., 1999, *American Journal of Gastroenterology*](https://pubmed.ncbi.nlm.nih.gov/10364014/))
 
-The difference becomes dramatic in longer events. Pfeiffer et al. (2012) documented that **severe GI distress occurred in just 4% of marathon runners and cyclists, but in 32% of Ironman competitors** — who must run a marathon after already stressing their gut for 5+ hours on the bike [(Pfeiffer et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/21775906/).
+The difference becomes dramatic in longer events. Pfeiffer et al. (2012) documented that **severe GI distress occurred in just 4% of marathon runners and cyclists, but in 32% of Ironman competitors** — who must run a marathon after already stressing their gut for 5+ hours on the bike ([Pfeiffer et al., 2012](https://pubmed.ncbi.nlm.nih.gov/21775906/))
 
-A systematic review on gastrointestinal distress noted that *"an estimated 30-90% of endurance athletes engaging in marathons, triathlons, and running report experiencing GI symptoms during exercise"* [(ter Steege et al., 2008)](https://pubmed.ncbi.nlm.nih.gov/18296320/).
+A systematic review on gastrointestinal distress noted that *"an estimated 30-90% of endurance athletes engaging in marathons, triathlons, and running report experiencing GI symptoms during exercise"* ([ter Steege et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18296320/))
 
 ### How This Affects Your Recommendations
 
@@ -427,17 +427,17 @@ Based on this research, Mealvana applies sport-specific adjustments:
 
 | Sport | Practical Carb Ceiling | Evidence Base |
 | --- | --- | --- |
-| **Cycling** | 80-120 g/hr | Stable platform, no impact, can eat solids [(Jeukendrup, 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/) |
-| **Running** | 50-70 g/hr | GI jostling limits absorption [(Peters et al., 1999)](https://pubmed.ncbi.nlm.nih.gov/10364014/) |
-| **Swimming** | Pre/post only | Can't fuel during; reduced sweat anyway [(Jeukendrup et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15707379/) |
+| **Cycling** | 80-120 g/hr | Stable platform, no impact, can eat solids ([Jeukendrup, 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/)) |
+| **Running** | 50-70 g/hr | GI jostling limits absorption ([Peters et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10364014/)) |
+| **Swimming** | Pre/post only | Can't fuel during; reduced sweat anyway ([Jeukendrup et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15707379/)) |
 
 ### The Brick Workout Penalty
 
 If you're doing a brick (bike → run), your run fueling should be even more conservative. Your gut has been working hard on the bike, blood flow patterns are shifting, and the sudden switch to running impact often triggers GI issues.
 
-Research on triathlon-specific nutrition confirms this effect: *"the change in body position among the three disciplines may impair gastric emptying and increase GI distress"* [(Jeukendrup, Jentjens & Moseley, 2005, *Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/15707379/).
+Research on triathlon-specific nutrition confirms this effect: *"the change in body position among the three disciplines may impair gastric emptying and increase GI distress"* ([Jeukendrup, Jentjens & Moseley, 2005, *Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/15707379/))
 
-A study comparing gel vs. liquid carbohydrate during simulated long-distance triathlon found that **7 of 12 participants reported GI discomfort with gels, while none reported issues with liquid carbs** [(Sareban et al., 2016, *International Journal of Sport Nutrition and Exercise Metabolism*)](https://pubmed.ncbi.nlm.nih.gov/26402450/).
+A study comparing gel vs. liquid carbohydrate during simulated long-distance triathlon found that **7 of 12 participants reported GI discomfort with gels, while none reported issues with liquid carbs** ([Sareban et al., 2016, *International Journal of Sport Nutrition and Exercise Metabolism*](https://pubmed.ncbi.nlm.nih.gov/26402450/))
 
 **Mealvana automatically reduces your run carb target by 20-30%** when it detects a brick workout pattern in your TrainingPeaks calendar.
 
@@ -455,9 +455,9 @@ A study comparing gel vs. liquid carbohydrate during simulated long-distance tri
 
 Here's a number that might surprise you: **athletes can lose anywhere from 200 to 2,000 mg of sodium per liter of sweat**. That's a 10x difference between the saltiest and least salty sweaters.
 
-This massive range has been documented across multiple studies. Baker et al. (2016) analyzed 506 athletes and found sweat sodium concentrations ranging from **230 to 1,840 mg/L, with a mean of 826 mg/L** [(Baker et al., 2016, *Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/28332114/).
+This massive range has been documented across multiple studies. Baker et al. (2016) analyzed 506 athletes and found sweat sodium concentrations ranging from **230 to 1,840 mg/L, with a mean of 826 mg/L** ([Baker et al., 2016, *Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/28332114/))
 
-Your sweat sodium concentration is largely genetic — you're either a salty sweater or you're not. Heat acclimation helps reduce it somewhat, but the range between individuals remains enormous [(Baker et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28332114/).
+Your sweat sodium concentration is largely genetic — you're either a salty sweater or you're not. Heat acclimation helps reduce it somewhat, but the range between individuals remains enormous ([Baker et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28332114/))
 
 ### How Mealvana Calculates Your Sodium Needs
 
@@ -467,7 +467,7 @@ Your sweat sodium concentration is largely genetic — you're either a salty swe
 Sodium Loss (mg/hr) = Sweat Rate (L/hr) × Sweat Sodium Concentration (mg/L)
 ```
 
-This approach aligns with the ACSM Position Stand on Exercise and Fluid Replacement: *"Because there is considerable variability in sweating rates and sweat electrolyte content between individuals, customized fluid replacement programs are recommended"* [(Sawka et al., 2007, *Medicine and Science in Sports and Exercise*)](https://pubmed.ncbi.nlm.nih.gov/17277604/).
+This approach aligns with the ACSM Position Stand on Exercise and Fluid Replacement: *"Because there is considerable variability in sweating rates and sweat electrolyte content between individuals, customized fluid replacement programs are recommended"* ([Sawka et al., 2007, *Medicine and Science in Sports and Exercise*](https://pubmed.ncbi.nlm.nih.gov/17277604/))
 
 **Example — Two Athletes, Same Workout:**
 
@@ -478,7 +478,7 @@ This approach aligns with the ACSM Position Stand on Exercise and Fluid Replacem
 
 Marcus loses more than **twice** as much sodium as Sarah in the same workout. Their fueling plans need to reflect this.
 
-This isn't just academic. Baker et al. (2019) demonstrated significant sport-specific differences in sodium losses, with American football and endurance athletes showing the greatest need for deliberate replacement strategies [(Baker et al., 2019, *Journal of Sports Sciences*)](https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1633159).
+This isn't just academic. Baker et al. (2019) demonstrated significant sport-specific differences in sodium losses, with American football and endurance athletes showing the greatest need for deliberate replacement strategies ([Baker et al., 2019, *Journal of Sports Sciences*](https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1633159))
 
 ### Setting Your Profile
 
@@ -493,9 +493,9 @@ If you haven't done a formal sweat test, we use research-based defaults from Bak
 
 ### Sodium Replacement Guidelines
 
-How much should you replace? Research suggests targeting 50-80% replacement during exercise is both practical and effective. The International Society of Sports Nutrition recommends **500-700 mg of sodium per liter of fluid** for ultra-endurance events [(Tiller et al., 2019, *Journal of the International Society of Sports Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/31182071/).
+How much should you replace? Research suggests targeting 50-80% replacement during exercise is both practical and effective. The International Society of Sports Nutrition recommends **500-700 mg of sodium per liter of fluid** for ultra-endurance events ([Tiller et al., 2019, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/31182071/))
 
-For hot/humid conditions (>25°C and/or >60% humidity), intake should increase to **300-600 mg sodium per hour** [(Tiller et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/31182071/).
+For hot/humid conditions (>25°C and/or >60% humidity), intake should increase to **300-600 mg sodium per hour** ([Tiller et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31182071/))
 
 ---
 
@@ -503,9 +503,9 @@ For hot/humid conditions (>25°C and/or >60% humidity), intake should increase t
 
 ### The Goal
 
-The research consensus is clear: **don't lose more than 2-3% of your body weight from dehydration during exercise**. Beyond that threshold, performance drops measurably [(Sawka et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17277604/).
+The research consensus is clear: **don't lose more than 2-3% of your body weight from dehydration during exercise**. Beyond that threshold, performance drops measurably ([Sawka et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17277604/))
 
-But here's the flip side: **don't over-drink either**. Hyponatremia (dangerously low blood sodium from drinking too much plain water) is a real risk in long events, particularly marathons and Ironman races [(Hew-Butler et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/26102448/).
+But here's the flip side: **don't over-drink either**. Hyponatremia (dangerously low blood sodium from drinking too much plain water) is a real risk in long events, particularly marathons and Ironman races ([Hew-Butler et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26102448/))
 
 ### Sweat Rate Variability
 
@@ -517,7 +517,7 @@ Just like sodium concentration, sweat rates vary dramatically. The research docu
 - Fitness level and heat acclimation
 - Genetics
 
-[(Baker et al., 2016, *Sports Medicine*)](https://pubmed.ncbi.nlm.nih.gov/28332114/)
+([Baker et al., 2016, *Sports Medicine*](https://pubmed.ncbi.nlm.nih.gov/28332114/))
 
 ### How Mealvana Calculates Fluid Targets
 
@@ -544,7 +544,7 @@ Research documents significant environmental effects on sweat rate and fluid nee
 | Indoor trainer (no wind) | +30-50% | No convective cooling dramatically increases sweat |
 | Altitude (>2000m) | +15-25% | Increased respiratory water loss |
 
-That indoor trainer adjustment is no joke — without wind cooling, sweat rates can nearly double. A German position statement on fluid replacement notes that athletes should pay particular attention to hydration during indoor training [(Mosler et al., 2020, *German Journal of Sports Medicine*)](https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2020/Heft_7-8-9/DtschZSportmed_Position_Stand_Mosler_Fluid_Replacement_in_Sports_2020-7-8-9.pdf).
+That indoor trainer adjustment is no joke — without wind cooling, sweat rates can nearly double. A German position statement on fluid replacement notes that athletes should pay particular attention to hydration during indoor training ([Mosler et al., 2020, *German Journal of Sports Medicine*](https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2020/Heft_7-8-9/DtschZSportmed_Position_Stand_Mosler_Fluid_Replacement_in_Sports_2020-7-8-9.pdf))
 
 ---
 
@@ -556,9 +556,9 @@ What you eat after your workout determines how well you recover — and how read
 
 Post-workout nutrition serves three primary purposes:
 
-1. **Replenish glycogen stores** — Restore the muscle fuel you just burned [(Burke et al., 2004)](https://pubmed.ncbi.nlm.nih.gov/15212750/)
-2. **Repair and build muscle** — Provide amino acids for muscle protein synthesis [(Moore et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19056590/)
-3. **Rehydrate** — Replace fluid and electrolytes lost through sweat [(Shirreffs et al., 1996)](https://pubmed.ncbi.nlm.nih.gov/8904867/)
+1. **Replenish glycogen stores** — Restore the muscle fuel you just burned ([Burke et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15212750/))
+2. **Repair and build muscle** — Provide amino acids for muscle protein synthesis ([Moore et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19056590/))
+3. **Rehydrate** — Replace fluid and electrolytes lost through sweat ([Shirreffs et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8904867/))
 
 The relative importance of each goal depends on your workout and your schedule.
 
@@ -568,9 +568,9 @@ You've probably heard of the "anabolic window" — the idea that you must eat wi
 
 **Glycogen Resynthesis**
 
-Muscle glycogen resynthesis is indeed fastest in the first 30-60 minutes post-exercise, when the enzyme glycogen synthase is most active and muscles are highly insulin-sensitive [(Ivy et al., 1988, *Journal of Applied Physiology*)](https://pubmed.ncbi.nlm.nih.gov/3182480/).
+Muscle glycogen resynthesis is indeed fastest in the first 30-60 minutes post-exercise, when the enzyme glycogen synthase is most active and muscles are highly insulin-sensitive ([Ivy et al., 1988, *Journal of Applied Physiology*](https://pubmed.ncbi.nlm.nih.gov/3182480/))
 
-However, as a comprehensive review noted: *"The importance of immediate post-exercise carbohydrate intake is dependent on the time until the next training session"* [(Beelen et al., 2010, *International Journal of Sport Nutrition and Exercise Metabolism*)](https://pubmed.ncbi.nlm.nih.gov/21116024/).
+However, as a comprehensive review noted: *"The importance of immediate post-exercise carbohydrate intake is dependent on the time until the next training session"* ([Beelen et al., 2010, *International Journal of Sport Nutrition and Exercise Metabolism*](https://pubmed.ncbi.nlm.nih.gov/21116024/))
 
 **The Practical Takeaway:**
 - **<8 hours until next session:** Timing matters. Start carbs immediately.
@@ -578,28 +578,28 @@ However, as a comprehensive review noted: *"The importance of immediate post-exe
 
 **Muscle Protein Synthesis**
 
-The protein timing window is wider than once thought. A meta-analysis by Schoenfeld et al. (2013) found that *"the anabolic effect of exercise is long-lasting (at least 24 h), but likely diminishes with increasing time post-exercise"* [(Schoenfeld et al., 2013, *Journal of the International Society of Sports Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/24299050/).
+The protein timing window is wider than once thought. A meta-analysis by Schoenfeld et al. (2013) found that *"the anabolic effect of exercise is long-lasting (at least 24 h), but likely diminishes with increasing time post-exercise"* ([Schoenfeld et al., 2013, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/24299050/))
 
-That said, consuming protein within 2 hours post-exercise is still recommended for optimal muscle protein synthesis, especially if you trained fasted or it's been >4 hours since your last protein-containing meal [(Aragon & Schoenfeld, 2013, *Journal of the International Society of Sports Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/23360586/).
+That said, consuming protein within 2 hours post-exercise is still recommended for optimal muscle protein synthesis, especially if you trained fasted or it's been >4 hours since your last protein-containing meal ([Aragon & Schoenfeld, 2013, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/23360586/))
 
 ### Post-Workout Carbohydrate: Refilling the Tank
 
 **How Much?**
 
-The rate of glycogen resynthesis maxes out at approximately **1.0-1.2 g/kg/hour** for the first 4 hours post-exercise [(Burke et al., 2004)](https://pubmed.ncbi.nlm.nih.gov/15212750/). Consuming more than this doesn't speed up the process — it just gets stored as fat or oxidized.
+The rate of glycogen resynthesis maxes out at approximately **1.0-1.2 g/kg/hour** for the first 4 hours post-exercise ([Burke et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15212750/)) Consuming more than this doesn't speed up the process — it just gets stored as fat or oxidized.
 
 | Recovery Window | Carb Target | Rationale |
 | --- | --- | --- |
-| 0-30 min | 1.0-1.2 g/kg | Maximizes glycogen synthase activity [(Ivy, 1988)](https://pubmed.ncbi.nlm.nih.gov/3182480/) |
+| 0-30 min | 1.0-1.2 g/kg | Maximizes glycogen synthase activity ([Ivy, 1988](https://pubmed.ncbi.nlm.nih.gov/3182480/)) |
 | 30-60 min | 1.0-1.2 g/kg | Continued rapid resynthesis |
 | 2-4 hours | 1.0-1.2 g/kg/hr | If rapid recovery needed |
-| 24-hour total | 5-7 g/kg (moderate) to 7-12 g/kg (high volume) | For full glycogen restoration [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/) |
+| 24-hour total | 5-7 g/kg (moderate) to 7-12 g/kg (high volume) | For full glycogen restoration ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/)) |
 
 *Example for 70kg athlete after a depleting session:* 70-84g carbs in first 30 min, repeated hourly for 4 hours if training again within 8 hours.
 
 **Carb Quality Matters**
 
-High glycemic index (GI) carbohydrates produce faster glycogen resynthesis in the immediate post-exercise period [(Burke et al., 1993)](https://pubmed.ncbi.nlm.nih.gov/8422003/). Good choices include:
+High glycemic index (GI) carbohydrates produce faster glycogen resynthesis in the immediate post-exercise period ([Burke et al., 1993](https://pubmed.ncbi.nlm.nih.gov/8422003/)) Good choices include:
 - White rice, white bread, bagels
 - Potatoes (not sweet potatoes initially)
 - Sports drinks, fruit juice
@@ -612,15 +612,15 @@ For the 2-24 hour window, a mix of high and moderate GI carbs is fine, and whole
 
 **How Much?**
 
-Research consistently shows that **20-40g of high-quality protein** (or **0.25-0.4 g/kg body weight**) maximally stimulates muscle protein synthesis post-exercise [(Moore et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19056590/).
+Research consistently shows that **20-40g of high-quality protein** (or **0.25-0.4 g/kg body weight**) maximally stimulates muscle protein synthesis post-exercise ([Moore et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19056590/))
 
-A dose-response study found that 20g of egg protein stimulated muscle protein synthesis maximally in young men after resistance exercise, with 40g providing no additional benefit for whole-body protein synthesis [(Witard et al., 2014, *American Journal of Clinical Nutrition*)](https://pubmed.ncbi.nlm.nih.gov/24477043/).
+A dose-response study found that 20g of egg protein stimulated muscle protein synthesis maximally in young men after resistance exercise, with 40g providing no additional benefit for whole-body protein synthesis ([Witard et al., 2014, *American Journal of Clinical Nutrition*](https://pubmed.ncbi.nlm.nih.gov/24477043/))
 
-However, for older athletes (>40) or after particularly damaging exercise (long runs, eccentric work), higher doses of **40g** may be beneficial [(Moore et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25169440/).
+However, for older athletes (>40) or after particularly damaging exercise (long runs, eccentric work), higher doses of **40g** may be beneficial ([Moore et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25169440/))
 
 **Protein Quality: Leucine Is Key**
 
-Not all proteins are equal for muscle recovery. The amino acid **leucine** is the primary trigger for muscle protein synthesis. Research suggests a **leucine threshold of 2.5-3g** is needed to maximally stimulate this process [(Churchward-Venne et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22952187/).
+Not all proteins are equal for muscle recovery. The amino acid **leucine** is the primary trigger for muscle protein synthesis. Research suggests a **leucine threshold of 2.5-3g** is needed to maximally stimulate this process ([Churchward-Venne et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22952187/))
 
 | Protein Source | Amount for ~3g Leucine |
 | --- | --- |
@@ -635,7 +635,7 @@ Not all proteins are equal for muscle recovery. The amino acid **leucine** is th
 
 ### The Carb + Protein Combination
 
-Early research suggested that adding protein to carbohydrate enhanced glycogen resynthesis [(Zawadzki et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1601794/). However, subsequent studies clarified that this benefit disappears when carbohydrate intake is already optimal (≥1.0-1.2 g/kg/hr) [(Beelen et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/21116024/).
+Early research suggested that adding protein to carbohydrate enhanced glycogen resynthesis ([Zawadzki et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1601794/)) However, subsequent studies clarified that this benefit disappears when carbohydrate intake is already optimal (≥1.0-1.2 g/kg/hr) ([Beelen et al., 2010](https://pubmed.ncbi.nlm.nih.gov/21116024/))
 
 **The current consensus:**
 - If you can consume adequate carbs (1.0-1.2 g/kg/hr), adding protein doesn't accelerate glycogen resynthesis
@@ -650,7 +650,7 @@ Different sports create different recovery demands. A 90-minute easy spin doesn'
 
 **Running: Highest Muscle Damage**
 
-Running creates significant eccentric muscle damage from the repetitive impact and braking forces. Research shows that marathon running causes measurable muscle damage lasting 7-14 days [(Howatson & van Someren, 2008)](https://pubmed.ncbi.nlm.nih.gov/18629598/).
+Running creates significant eccentric muscle damage from the repetitive impact and braking forces. Research shows that marathon running causes measurable muscle damage lasting 7-14 days ([Howatson & van Someren, 2008](https://pubmed.ncbi.nlm.nih.gov/18629598/))
 
 **Mealvana's Running Recovery Adjustments:**
 
@@ -658,7 +658,7 @@ Running creates significant eccentric muscle damage from the repetitive impact a
 | --- | --- | --- |
 | Protein priority | Higher (0.3-0.4 g/kg) | Greater muscle damage to repair |
 | Protein timing | Within 1-2 hours | Support repair processes |
-| Anti-inflammatory foods | Encouraged | Tart cherry, omega-3s may help [(Howatson et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/19883392/) |
+| Anti-inflammatory foods | Encouraged | Tart cherry, omega-3s may help ([Howatson et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19883392/)) |
 | Long runs (>90 min) | Aggressive carb replacement | Significant glycogen depletion |
 | Easy runs (<60 min) | Moderate recovery meal | Less depleting |
 
@@ -700,7 +700,7 @@ For most recreational athletes training once daily or every other day:
 - Focus on total daily carb and protein intake
 - A balanced meal is fine; no need for specific recovery products
 
-*"When a 24-h recovery period is available, the pattern of intake of CHO-rich meals and snacks is not as important as achieving total CHO intake targets"* [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/)
+*"When a 24-h recovery period is available, the pattern of intake of CHO-rich meals and snacks is not as important as achieving total CHO intake targets"* ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/))
 
 **Scenario 2: 8-24 Hours Until Next Session (Two-a-Days, AM/PM Split)**
 
@@ -716,7 +716,7 @@ Aggressive recovery protocol needed:
 - **Immediate** (0-30 min): 1.2 g/kg carbs + 0.3 g/kg protein
 - **Hourly** for 4 hours: 1.0-1.2 g/kg carbs
 - High GI carbs preferred for speed
-- Fluid: 150% of losses [(Shirreffs et al., 1996)](https://pubmed.ncbi.nlm.nih.gov/8904867/)
+- Fluid: 150% of losses ([Shirreffs et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8904867/))
 - Consider liquid nutrition if appetite is suppressed
 
 ### Intensity and Duration: Calibrating Recovery to Effort
@@ -742,13 +742,13 @@ Not every workout deserves the same recovery treatment. Mealvana adjusts recomme
 | 90-150 min | Significant (~50-70%) | 0.8-1.0 g/kg within 1 hour |
 | >150 min | Near-complete (>70%) | 1.0-1.2 g/kg immediately + ongoing |
 
-*Depletion estimates based on moderate-intensity exercise; higher intensity accelerates depletion [(Hawley & Burke, 2010)](https://pubmed.ncbi.nlm.nih.gov/20616742/)*
+*Depletion estimates based on moderate-intensity exercise; higher intensity accelerates depletion ([Hawley & Burke, 2010](https://pubmed.ncbi.nlm.nih.gov/20616742/))*
 
 ### Post-Workout Hydration: The 150% Rule
 
 You can't fully rehydrate during exercise — you're always playing catch-up. Post-workout is when you restore fluid balance.
 
-Research by Shirreffs et al. (1996) established that athletes must consume **150% of fluid losses** to achieve euhydration, because some fluid is lost to urine production during the rehydration process [(Shirreffs et al., 1996, *Medicine and Science in Sports and Exercise*)](https://pubmed.ncbi.nlm.nih.gov/8904867/).
+Research by Shirreffs et al. (1996) established that athletes must consume **150% of fluid losses** to achieve euhydration, because some fluid is lost to urine production during the rehydration process ([Shirreffs et al., 1996, *Medicine and Science in Sports and Exercise*](https://pubmed.ncbi.nlm.nih.gov/8904867/))
 
 **Practical Application:**
 - Weigh yourself before and after exercise
@@ -757,14 +757,14 @@ Research by Shirreffs et al. (1996) established that athletes must consume **150
 
 **Sodium Aids Retention**
 
-Plain water is poorly retained. Adding sodium (500-700 mg/L) significantly improves fluid retention post-exercise [(Maughan et al., 1994)](https://pubmed.ncbi.nlm.nih.gov/8002550/).
+Plain water is poorly retained. Adding sodium (500-700 mg/L) significantly improves fluid retention post-exercise ([Maughan et al., 1994](https://pubmed.ncbi.nlm.nih.gov/8002550/))
 
 | Post-Workout Fluid | Sodium | Retention |
 | --- | --- | --- |
 | Plain water | 0 mg/L | ~50% retained |
 | Sports drink | 400-500 mg/L | ~70% retained |
 | Oral rehydration solution | 800-1000 mg/L | ~80% retained |
-| Milk | ~500 mg/L + protein | Excellent retention [(Shirreffs et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17460340/) |
+| Milk | ~500 mg/L + protein | Excellent retention ([Shirreffs et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17460340/)) |
 
 *Source: [Evans et al., 2017, European Journal of Applied Physiology](https://pubmed.ncbi.nlm.nih.gov/28698934/)*
 
@@ -778,7 +778,7 @@ Some athletes are simultaneously trying to recover and manage body composition. 
 - After easy sessions, a normal meal is sufficient — no need for additional recovery calories
 - Prioritize recovery nutrition after key sessions; be more conservative after easy days
 
-Research shows that protein timing becomes *more* important during caloric restriction, as the margin for error in muscle protein balance is smaller [(Areta et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24477043/).
+Research shows that protein timing becomes *more* important during caloric restriction, as the margin for error in muscle protein balance is smaller ([Areta et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24477043/))
 
 ### Summary: Mealvana's Post-Workout Decision Tree
 
@@ -879,7 +879,7 @@ Given the warm conditions (26°C), we apply the sodium loading protocol:
 - Fueling: None (can't eat while swimming)
 - Sweat: Reduced in water (~50% of land rate) — approximately 0.3L total
 - Sodium loss: ~330mg
-- Note: Pre-race fueling carries you through [(Jeukendrup et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15707379/)
+- Note: Pre-race fueling carries you through ([Jeukendrup et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15707379/))
 
 **T1 Transition:**
 - Quick sip of water if available
@@ -890,7 +890,7 @@ Given the warm conditions (26°C), we apply the sodium loading protocol:
 - Intensity: Race pace (high)
 - Sweat rate in heat: 1.5 L/hr × 1.08 hr = ~1.6L
 - Sodium loss: 1.6L × 1,100 mg/L = ~1,760mg
-- Base carb recommendation: 60-75 g/hr for this duration/intensity [(Burke et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21916794/)
+- Base carb recommendation: 60-75 g/hr for this duration/intensity ([Burke et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21916794/))
 - Athlete tolerance: 80 g/hr (not limiting)
 - **Bike carb target: 60-70g total (~55-65 g/hr)**
 - **Bike sodium target: ~1,500mg** (aim to replace ~85%)
@@ -906,7 +906,7 @@ Given the warm conditions (26°C), we apply the sodium loading protocol:
 - Sweat rate in heat: 1.5 L/hr × 0.83 hr = ~1.25L
 - Sodium loss: ~1,375mg
 - Base carb recommendation: 40-50 g/hr for 50-min race effort
-- **Brick penalty applied:** Reduce by 20% due to bike-to-run GI stress [(Jeukendrup et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15707379/)
+- **Brick penalty applied:** Reduce by 20% due to bike-to-run GI stress ([Jeukendrup et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15707379/))
 - **Run carb target: 30-40g total**
 - **Run sodium target: ~700mg** (conservative due to GI sensitivity on run)
 - **Run fluid target: ~500-600ml** (from aid stations)
@@ -958,11 +958,11 @@ Running causes more muscle damage than cycling. After a triathlon with a 10K run
 | Each subsequent meal | 0.25-0.3 g/kg = 17-20g | Whole food sources |
 | Daily total | 1.6-2.0 g/kg = 110-136g | Elevated for 24-48 hours |
 
-*Higher protein recommendation due to running-induced muscle damage [(Howatson & van Someren, 2008)](https://pubmed.ncbi.nlm.nih.gov/18629598/)*
+*Higher protein recommendation due to running-induced muscle damage ([Howatson & van Someren, 2008](https://pubmed.ncbi.nlm.nih.gov/18629598/))*
 
 **Post-Race Rehydration:**
 
-Apply the 150% rule [(Shirreffs et al., 1996)](https://pubmed.ncbi.nlm.nih.gov/8904867/):
+Apply the 150% rule ([Shirreffs et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8904867/)):
 
 | Metric | Value | Calculation |
 | --- | --- | --- |
@@ -984,9 +984,9 @@ Sodium is critical for fluid retention. Without it, much of what you drink ends 
 **Anti-Inflammatory Considerations:**
 
 After the running component, consider foods that may support recovery:
-- Tart cherry juice: 8-12 oz (may reduce muscle soreness) [(Howatson et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/19883392/)
+- Tart cherry juice: 8-12 oz (may reduce muscle soreness) ([Howatson et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19883392/))
 - Omega-3 rich foods: Salmon, walnuts, chia seeds
-- Avoid NSAIDs: Ibuprofen impairs gut barrier and may slow recovery [(Van Wijck et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22450853/)
+- Avoid NSAIDs: Ibuprofen impairs gut barrier and may slow recovery ([Van Wijck et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22450853/))
 
 ---
 
@@ -1156,11 +1156,11 @@ When you mark a workout as a race or key session in TrainingPeaks, Mealvana shif
 
 Here's something the research has proven: **your gut adapts to what you ask of it**.
 
-A landmark study by Cox et al. (2010) showed that athletes who trained with high carbohydrate intake for 28 days significantly increased their ability to absorb and oxidize carbs during exercise. The high-carb group showed *"higher exogenous carbohydrate oxidation rates during exercise than the low-carb group"* — attributed to improved intestinal absorption [(Cox et al., 2010, *Journal of Applied Physiology*)](https://pubmed.ncbi.nlm.nih.gov/20466803/).
+A landmark study by Cox et al. (2010) showed that athletes who trained with high carbohydrate intake for 28 days significantly increased their ability to absorb and oxidize carbs during exercise. The high-carb group showed *"higher exogenous carbohydrate oxidation rates during exercise than the low-carb group"* — attributed to improved intestinal absorption ([Cox et al., 2010, *Journal of Applied Physiology*](https://pubmed.ncbi.nlm.nih.gov/20466803/))
 
-This adaptation appears to involve upregulation of intestinal transporters (SGLT1 and GLUT5), meaning your gut literally builds more "lanes" for carbohydrate absorption with training [(Jeukendrup, 2017)](https://pubmed.ncbi.nlm.nih.gov/28332114/).
+This adaptation appears to involve upregulation of intestinal transporters (SGLT1 and GLUT5), meaning your gut literally builds more "lanes" for carbohydrate absorption with training ([Jeukendrup, 2017](https://pubmed.ncbi.nlm.nih.gov/28332114/))
 
-As Jeukendrup summarized: *"The gut is highly adaptable and endurance athletes should incorporate nutritional training into their training plans"* [(Jeukendrup & McLaughlin, 2011, *Nestlé Nutrition Institute Workshop Series*)](https://pubmed.ncbi.nlm.nih.gov/22152948/).
+As Jeukendrup summarized: *"The gut is highly adaptable and endurance athletes should incorporate nutritional training into their training plans"* ([Jeukendrup & McLaughlin, 2011, *Nestlé Nutrition Institute Workshop Series*](https://pubmed.ncbi.nlm.nih.gov/22152948/))
 
 ### What This Means for You
 
@@ -1169,7 +1169,7 @@ As Jeukendrup summarized: *"The gut is highly adaptable and endurance athletes s
 3. **Practice your fueling strategy** — Test products and quantities in training before key events
 4. **Use long sessions to test tolerance** — Long rides and runs are perfect for gut training
 
-A systematic review on gut training concluded that *"repeated exposure to high carbohydrate intake during training can impact physiological outcomes; specifically, substrate utilization"* and can help prevent GI distress [(Costa et al., 2023, *Sports Medicine*)](https://link.springer.com/article/10.1007/s40279-023-01841-0).
+A systematic review on gut training concluded that *"repeated exposure to high carbohydrate intake during training can impact physiological outcomes; specifically, substrate utilization"* and can help prevent GI distress ([Costa et al., 2023, *Sports Medicine*](https://link.springer.com/article/10.1007/s40279-023-01841-0))
 
 Mealvana tracks your training history and will gradually suggest higher carb targets as you demonstrate tolerance over time.
 
@@ -1185,12 +1185,12 @@ Studies have identified several dietary and non-dietary correlates of GI distres
 
 | Risk Factor | Evidence |
 | --- | --- |
-| History of GI issues | Strongest predictor (ρ = 0.32-0.51) [(Pfeiffer et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/21775906/) |
-| High fiber intake before workout | Increases symptoms [(Rehrer et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1386594/) |
-| High fat/protein before workout | Delays gastric emptying [(Rehrer et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1386594/) |
-| Concentrated carb solutions (>8%) | Increases GI distress [(de Oliveira et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24458896/) |
-| NSAIDs (ibuprofen, etc.) | Compromises gut barrier [(Van Wijck et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22450853/) |
-| Dehydration | Exacerbates symptoms [(Rehrer et al., 1992)](https://pubmed.ncbi.nlm.nih.gov/1386594/) |
+| History of GI issues | Strongest predictor (ρ = 0.32-0.51) ([Pfeiffer et al., 2012](https://pubmed.ncbi.nlm.nih.gov/21775906/)) |
+| High fiber intake before workout | Increases symptoms ([Rehrer et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1386594/)) |
+| High fat/protein before workout | Delays gastric emptying ([Rehrer et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1386594/)) |
+| Concentrated carb solutions (>8%) | Increases GI distress ([de Oliveira et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24458896/)) |
+| NSAIDs (ibuprofen, etc.) | Compromises gut barrier ([Van Wijck et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22450853/)) |
+| Dehydration | Exacerbates symptoms ([Rehrer et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1386594/)) |
 
 *Source: [Wilson, 2015, International Journal of Sport Nutrition and Exercise Metabolism](https://pubmed.ncbi.nlm.nih.gov/26222930/)*
 
@@ -1208,7 +1208,7 @@ Studies have identified several dietary and non-dietary correlates of GI distres
 
 For long workouts and races (3+ hours), Mealvana generates a **GI distress contingency** based on field experience from ultra-endurance research:
 
-- If nausea hits: Switch to simple carbs (cola, flat ginger ale) + broth only [(Stuempfle & Hoffman, 2015)](https://pubmed.ncbi.nlm.nih.gov/25811308/)
+- If nausea hits: Switch to simple carbs (cola, flat ginger ale) + broth only ([Stuempfle & Hoffman, 2015](https://pubmed.ncbi.nlm.nih.gov/25811308/))
 - Reduce intensity briefly to allow digestion
 - Reduce intake to 30 g/hr until symptoms resolve
 - Prioritize hydration over calories
