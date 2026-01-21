@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Mealvana Calculates Your Fueling: The Science Behind Your Personalized Nutrition Plan"
-date: 2026-01-09
+date: 2026-01-21
 author: "Mealvana Team"
 categories: [nutrition, sports-science, fueling]
 tags: [carbohydrates, hydration, sodium, personalization, sports-nutrition]
