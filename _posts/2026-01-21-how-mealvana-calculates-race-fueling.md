@@ -31,7 +31,7 @@ Mealvana combines decades of peer-reviewed sports nutrition research with your p
 
 ### Why Carbs Matter
 
-During endurance exercise, your muscles burn a mix of carbohydrates and fat. The harder you go, the more you rely on carbs. A 2.5-hour workout at moderate-to-hard intensity can burn through 300-500 grams of stored carbohydrate (glycogen) — and your body can only store about 400-500 grams total ([Coyle, 2004](https://pubmed.ncbi.nlm.nih.gov/15212750/)).
+During endurance exercise, your muscles burn a mix of carbohydrates and fat. The harder you go, the more you rely on carbs. A 2.5-hour workout at moderate-to-hard intensity can burn through 300-500 grams of stored carbohydrate (glycogen) — and your body can only store about 400-500 grams total ([Jeukendrup, 2004](https://pubmed.ncbi.nlm.nih.gov/15212750/)).
 
 **The math is simple:** If you don't replace carbs during long or hard efforts, you'll bonk.
 
