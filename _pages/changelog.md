@@ -11,6 +11,32 @@ Stay up to date with the latest improvements to Mealvana Endurance.
 <br>
 
 ### `Latest`
+# **Version 1.15**
+A major update rebuilding the nutrition plan experience from the ground up — redesigned during-activity nutrition, smarter food placement, and a new template-based pre-workout system.
+
+#### What's New
+- **Redesigned During-Activity Nutrition** — Completely overhauled food selection with a new timeline UI and hour-by-hour nutrition view so you can see exactly what to eat and when
+- **Template-Based Pre-Workout Meals** — New template system for pre-workout food planning with smart beverage handling and fluid tracking
+- **Drag-to-Place Food Items** — Intuitive drag-to-hour and tap-to-place model lets you position nutrition items exactly where you want them
+- **Global Sip Section** — Dedicated section for sip-based items like sports drinks and water with inline quantity adjustment
+- **Custom Nutrition Targets** — Manually adjust your carb, protein, and hydration targets to match your personal preferences
+- **Smart Pre-Activity Fueling** — Duration-aware fueling window with smarter recommendations for shorter vs longer activities
+- **Post-Workout Carb Feedback** — Track actual vs planned carb intake to improve future recommendations
+- **Improved Brick Workout Nutrition** — Full multi-sport support in the V2 nutrition engine with transition phase planning
+
+#### Bug Fixes
+- Fixed multiple layout and data display issues in the by-hour nutrition view
+- Fixed water filtering, sodium cap, and variety selection during activity planning
+- Improved version check handling for smoother app updates
+- Fixed template food preference handling and fluid tracking
+- Various stability and performance improvements
+
+<br>
+
+________
+<br>
+
+### `Brick Workouts`
 # **Version 1.14.2**
 A major feature release introducing brick workouts, an upgraded nutrition algorithm, and improved sync reliability.
 
