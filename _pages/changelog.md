@@ -11,6 +11,30 @@ Stay up to date with the latest improvements to Mealvana Endurance.
 <br>
 
 ### `Latest`
+# **Version 1.16**
+Coach Mode, a product catalog, sport-specific nutrition intelligence, and a leaner codebase under the hood.
+
+#### What's New
+- **Coach Mode v2** — Coaches can now pair with athletes using a simple code-based flow and manage nutrition plans through a dedicated web dashboard
+- **Product Catalog** — Browse and search real nutrition products with Shopify-powered catalog integration
+- **Sport-Specific Nutrition Targets** — During-workout carb, protein, and hydration targets now automatically adjust based on your sport type, with advanced recommendations kicking in for activities over 90 minutes
+
+#### Improvements
+- Major codebase refactoring across 7 phases — removed ~5,000 lines of dead code, extracted shared utilities, and split large screens into focused, modular widgets
+- Hardened web deployment with environment-based secrets and route-level access controls
+- Polished swap food screen layout and interactions
+
+#### Bug Fixes
+- Fixed 6 before-run nutrition issues including food suitability, timing, and portion calculations
+- Fixed nutrition plan mapper and test parameter handling
+- Various stability improvements
+
+<br>
+
+________
+<br>
+
+### `Nutrition Overhaul`
 # **Version 1.15**
 A major update rebuilding the nutrition plan experience from the ground up — redesigned during-activity nutrition, smarter food placement, and a new template-based pre-workout system.
 
