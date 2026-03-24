@@ -39,11 +39,12 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 115px 876px auto auto auto;
 	grid-column-gap: 30px;
-	grid-template-areas: 
+	grid-template-areas:
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
+		"d d d d d d d d d d d d"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
@@ -56,7 +57,7 @@
 @media only screen and (max-width: 768px) {
 
 	.container {					// Set up the container for the site content
-		grid-template-rows: 80px 811px auto auto;
+		grid-template-rows: 80px 811px auto auto auto;
 	}
 }
 
@@ -65,11 +66,12 @@
 	.container {
 		grid-column-gap: 0px;
 		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto;
-		grid-template-areas: 
+		grid-template-rows: 115px auto auto auto auto auto;
+		grid-template-areas:
 			"h h h h h h h h h h h h"
 			"i i i i i i i i i i i i"
 			"p p p p p p p p p p p p"
+			"d d d d d d d d d d d d"
 			"c c c c c c c c c c c c"
 			"f f f f f f f f f f f f";
 	}
@@ -690,9 +692,11 @@ footer {
 // Quick Demo Button (Homepage)
 
 .quickDemoContainer {
-	display: block;
-	margin-top: 28px;
-	width: 100%;
+	grid-area: d;
+	display: flex;
+	justify-content: center;
+	padding-top: 48px;
+	padding-bottom: 8px;
 }
 
 .quickDemoButton {
@@ -700,21 +704,20 @@ footer {
 	align-items: center;
 	gap: 10px;
 	padding: 14px 32px;
-	border: 2px solid rgba(#fff, 0.5);
+	border: 2px solid #381633;
 	border-radius: 50px;
-	color: #fff !important;
+	color: #381633 !important;
 	font-size: 1.8rem;
 	font-weight: 600;
 	letter-spacing: 0.03em;
 	text-decoration: none !important;
 	transition: all 0.25s ease;
-	backdrop-filter: blur(4px);
-	background: rgba(#fff, 0.08);
+	background: transparent;
 }
 
 .quickDemoButton:hover {
-	background: rgba(#fff, 0.18);
-	border-color: rgba(#fff, 0.8);
+	background: #381633;
+	color: #fff !important;
 	transform: translateY(-1px);
 }
 
@@ -730,14 +733,6 @@ footer {
 
 .quickDemoText {
 	line-height: 1;
-}
-
-@media only screen and (max-width: 992px) {
-
-	.quickDemoContainer {
-		text-align: center;
-	}
-
 }
 
 
