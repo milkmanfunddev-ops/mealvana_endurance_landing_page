@@ -1,0 +1,47 @@
+---
+layout: page
+title: Quick Demo
+include_in_header: true
+permalink: /demo/
+---
+
+<div class="demo-page">
+    <h1>Quick Demo</h1>
+    <p class="demo-subtitle">See Mealvana Endurance in action with these short walkthroughs.</p>
+
+    <div class="demo-videos">
+        <div class="demo-video-card">
+            <h3>Race Day Nutrition Programming</h3>
+            <p class="demo-video-description">Plan your race day fueling hour by hour with personalized nutrition targets.</p>
+            <div class="demo-video-wrapper">
+                <iframe src="https://www.youtube.com/embed/CEkpgTNZSz8" title="Race Day Nutrition Programming (by hour mode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="demo-video-card">
+            <h3>Barcode Scanning & Branded Food</h3>
+            <p class="demo-video-description">Scan any barcode to quickly add branded food items to your preferred food list.</p>
+            <div class="demo-video-wrapper">
+                <iframe src="https://www.youtube.com/embed/KXe0nAuik1s" title="Barcode scanning and adding branded food to your preferred food" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="demo-video-card demo-video-card--short">
+            <h3>Bug Report or Feature Request</h3>
+            <p class="demo-video-description">Submitting feedback is super easy — just a couple of taps from within the app.</p>
+            <div class="demo-video-wrapper demo-video-wrapper--short">
+                <iframe src="https://www.youtube.com/embed/uTDELPwFlWg" title="Bug report or feature request is super easy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <div class="demo-cta">
+        <p>Ready to fuel your next race?</p>
+        <div class="demo-cta-buttons">
+            {% if site.playstore_link %}
+                <a href="{{ site.playstore_link }}"><img class="playStore" src="{{ 'assets/playstore.png' | relative_url }}" alt="Get it on Google Play"></a>
+            {% endif %}
+            <a href="{{ site.appstore_link }}"><img class="appStore" src="{{ 'assets/appstore.png' | relative_url }}" alt="Download on the App Store"></a>
+        </div>
+    </div>
+</div>
