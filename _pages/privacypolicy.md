@@ -6,7 +6,7 @@ include_in_header: false
 ---
 
 # MEALVANA PRIVACY POLICY
-**Last Updated:** May 7, 2025
+**Last Updated:** April 10, 2026
 
 ---
 
@@ -33,6 +33,9 @@ We collect several types of information from and about you, including:
 - **Product Interaction:** We collect information about how you interact with our app, including features you use and content you view.  
 - **Crash Data:** We collect data when our app crashes to identify and fix technical issues.  
 - **Performance Data:** We collect information about app performance to optimize and improve our Services.  
+
+### **Third-Party Integrations**
+If you choose to connect third-party services (such as training platforms or wearable devices), we receive data from those services including workout summaries, activity metrics, and health data such as body composition. This data is used solely within our Services to provide personalized nutrition planning and is processed internally. We do not share, transmit, or make available data obtained from third-party integrations to any external artificial intelligence, machine learning, or data processing services.
 
 ---
 
